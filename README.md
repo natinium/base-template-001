@@ -20,7 +20,7 @@ This template provides a ready-to-use base setup for starting a new JavaScript o
 To start a new project using this template, you can use `degit`:
 
 ```bash
-npx degit <repository-url> new-project
+npx degit https://github.com/natinium/base-template-001.git new-project
 cd new-project
 yarn install
 ```
